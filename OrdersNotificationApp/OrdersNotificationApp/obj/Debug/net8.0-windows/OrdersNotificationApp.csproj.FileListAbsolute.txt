@@ -1,0 +1,16 @@
+C:\Users\HO SHENG JUN\source\repos\OrdersNotificationApp\OrdersNotificationApp\obj\Debug\net8.0-windows\OrdersNotificationApp.Form1.resources
+C:\Users\HO SHENG JUN\source\repos\OrdersNotificationApp\OrdersNotificationApp\obj\Debug\net8.0-windows\OrdersNotificationApp.csproj.GenerateResource.cache
+C:\Users\HO SHENG JUN\source\repos\OrdersNotificationApp\OrdersNotificationApp\obj\Debug\net8.0-windows\OrdersNotificationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HO SHENG JUN\source\repos\OrdersNotificationApp\OrdersNotificationApp\obj\Debug\net8.0-windows\OrdersNotificationApp.AssemblyInfoInputs.cache
+C:\Users\HO SHENG JUN\source\repos\OrdersNotificationApp\OrdersNotificationApp\obj\Debug\net8.0-windows\OrdersNotificationApp.AssemblyInfo.cs
+C:\Users\HO SHENG JUN\source\repos\OrdersNotificationApp\OrdersNotificationApp\obj\Debug\net8.0-windows\OrdersNotificationApp.csproj.CoreCompileInputs.cache
+C:\Users\HO SHENG JUN\source\repos\OrdersNotificationApp\OrdersNotificationApp\bin\Debug\net8.0-windows\OrdersNotificationApp.exe
+C:\Users\HO SHENG JUN\source\repos\OrdersNotificationApp\OrdersNotificationApp\bin\Debug\net8.0-windows\OrdersNotificationApp.deps.json
+C:\Users\HO SHENG JUN\source\repos\OrdersNotificationApp\OrdersNotificationApp\bin\Debug\net8.0-windows\OrdersNotificationApp.runtimeconfig.json
+C:\Users\HO SHENG JUN\source\repos\OrdersNotificationApp\OrdersNotificationApp\bin\Debug\net8.0-windows\OrdersNotificationApp.dll
+C:\Users\HO SHENG JUN\source\repos\OrdersNotificationApp\OrdersNotificationApp\bin\Debug\net8.0-windows\OrdersNotificationApp.pdb
+C:\Users\HO SHENG JUN\source\repos\OrdersNotificationApp\OrdersNotificationApp\obj\Debug\net8.0-windows\OrdersNotificationApp.dll
+C:\Users\HO SHENG JUN\source\repos\OrdersNotificationApp\OrdersNotificationApp\obj\Debug\net8.0-windows\refint\OrdersNotificationApp.dll
+C:\Users\HO SHENG JUN\source\repos\OrdersNotificationApp\OrdersNotificationApp\obj\Debug\net8.0-windows\OrdersNotificationApp.pdb
+C:\Users\HO SHENG JUN\source\repos\OrdersNotificationApp\OrdersNotificationApp\obj\Debug\net8.0-windows\OrdersNotificationApp.genruntimeconfig.cache
+C:\Users\HO SHENG JUN\source\repos\OrdersNotificationApp\OrdersNotificationApp\obj\Debug\net8.0-windows\ref\OrdersNotificationApp.dll
