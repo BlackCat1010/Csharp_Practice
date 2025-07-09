@@ -1,0 +1,17 @@
+@{
+    ViewData["Title"] = "Login Screen";
+    Layout = "~/Views/Shared/_Layout.cshtml" ;
+
+}
+
+<body>
+    <a asp-controller="Login" asp-action="LoginStronglyScreen">Switch to LoginStronglyScreen Page</a>
+    @using(Html.BeginForm("LoginScreenPost","Login",FormMethod.Post))
+    {
+        <div >
+            <div>Username: @Html.TextBox("Username")</div>
+            <div>Password: @Html.Password("Password")</div>
+            <div><input type="submit" value="Login" ></div>
+        </div>
+    }
+</body>
