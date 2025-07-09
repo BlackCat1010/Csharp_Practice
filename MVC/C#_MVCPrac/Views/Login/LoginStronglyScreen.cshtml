@@ -1,0 +1,14 @@
+@model LoginViewModel;
+@{
+    ViewData["Title"] = "Login Screen";
+    Layout = "~/Views/Shared/_Layout.cshtml" ;
+}
+
+<body>
+    <a asp-controller="Login" asp-action="LoginScreen">Switch to LoginWeaklyScreen Page</a>
+    @using(Html.BeginForm("StrongLoginPost","Login",FormMethod.Post)){
+        <div>Username: @Html.TextBoxFor(LoginViewModel=>LoginViewModel.Username)</div>
+        <div>Password: @Html.PasswordFor(LoginViewModel=>LoginViewModel.Password)</div>
+        <div><input type="submit" value="Login"></div>
+    }
+</body>
